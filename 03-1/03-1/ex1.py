@@ -42,6 +42,7 @@ print("Min,Built-in:", min(numbers))
 print("Max,Built-in:", max(numbers))
 print("Sum,Built-in:", sum(numbers))
 print("test1-1")
+print("branch1")
 
 scoredb = [ {'Name':'Lee', 'Score':30},
     {'Name':'Kim', 'Score':40},
