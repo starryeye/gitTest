@@ -3,6 +3,7 @@ numbers = data.split()
 numbers = [int(i) for i in numbers]
 minval = 99999999
 minval = 9999999999999
+minval = 1
 for val in numbers:
     if (minval > val):
         minval = val
